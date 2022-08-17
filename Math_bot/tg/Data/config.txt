@@ -1,0 +1,4 @@
+easy_questions = 8
+max_range_in_divide = 200
+max_range_in_multiply = 20
+max_stages = 10

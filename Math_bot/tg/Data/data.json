@@ -1,0 +1,20 @@
+[
+    {
+        "user_id": 830750145,
+        "stage": 0,
+        "right_answers_amount": 10,
+        "wrong_answers_amount": 0,
+        "list_of_wrongs": [],
+        "right_answer": 0,
+        "question": "16 * 0"
+    },
+    {
+        "user_id": 432672691,
+        "stage": 0,
+        "right_answers_amount": 10,
+        "wrong_answers_amount": 0,
+        "list_of_wrongs": [],
+        "right_answer": 0,
+        "question": "12 * 0"
+    }
+]
